@@ -7,13 +7,13 @@ Programa completo para levar alunos do **zero** a **programador(a) júnior sóli
 ---
 
 ## 🧭 Sumário
+- [🎯 Objetivos de aprendizagem](#objetivos-de-aprendizagem)
+- [🧰 Pré-requisitos e ambiente](#pre-requisitos-e-ambiente)
+  - [Convenções do repositório](#convencoes-do-repositorio)
 - [🧱 Pilares e trilhas de estudo](#pilares-e-trilhas-de-estudo)
   - [1) Algoritmos com Portugol](#1-algoritmos-com-portugol)
   - [2) Banco de Dados SQL](#2-banco-de-dados-sql)
   - [3) Linguagens & Frameworks](#3-linguagens-frameworks)
-- [🎯 Objetivos de aprendizagem](#objetivos-de-aprendizagem)
-- [🧰 Pré-requisitos e ambiente](#pre-requisitos-e-ambiente)
-  - [Convenções do repositório](#convencoes-do-repositorio)
 - [🗓️ Cronograma por fases (26 semanas)](#cronograma-por-fases-26-semanas)
 - [🛡️ Segurança por padrão](#seguranca-por-padrao)
   - [Referenciais essenciais](#referenciais-essenciais)
