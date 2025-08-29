@@ -232,11 +232,10 @@ Refino do projeto final, deploy simples (Docker Compose/serviço grátis), READM
 <a id="canais-e-playlists-recomendados-pt-br-en"></a>
 ## 📺 Canais e playlists recomendados (PT-BR + EN)
 - **OWASP (oficial):** https://www.youtube.com/c/OWASPGLOBAL/playlists  
-- **ZAP (oficial):** https://www.youtube.com/@zaproxy/playlists  
 - **Michelli Brito (Spring/Java):** https://www.youtube.com/michellibrito  
 - **DevDojo (Java):** https://www.youtube.com/@DevDojoBrasil/playlists  
 - **Amigoscode (Spring/Java):** https://www.youtube.com/c/amigoscode/playlists  
-- **Curso em Vídeo (Gustavo Guanabara):** https://www.youtube.com/@CursoemVideo/playlists  
+- **Curso em Vídeo (Gustavo Guanabara):** https://www.youtube.com/c/CursoemV%C3%ADdeo/playlists  
 - **Bóson Treinamentos:** https://www.youtube.com/@bosontreinamentos/playlists  
 
 ---
