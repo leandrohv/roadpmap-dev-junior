@@ -27,28 +27,6 @@ Programa completo para levar alunos do **zero** a **programador(a) júnior sóli
 - [📦 Entregáveis por fase](#entregaveis-por-fase)
 - [📄 Licença](#licenca)
 
-<a id="pilares-e-trilhas-de-estudo"></a>
-## 🧱 Pilares e trilhas de estudo
-
-<a id="1-algoritmos-com-portugol"></a>
-### 1) Algoritmos com **Portugol**
-- Variáveis, E/S, condicionais, loops, vetores/matrizes, funções e recursão.
-- Complexidade (noções), decomposição, testes de mesa.  
-**Projeto:** 20–30 exercícios + mini‑sistema de terminal.
-
-<a id="2-banco-de-dados-sql"></a>
-### 2) Banco de Dados **SQL**
-- Modelagem (DER), chaves, normalização; DDL/DML; **JOINs**, `GROUP BY`, `HAVING`, índices; transações/isolamento.  
-**Projeto:** esquema para app (usuários/produtos/pedidos), seeds e 10 consultas.
-
-<a id="3-linguagens-frameworks"></a>
-### 3) Linguagens & Frameworks
-**a) PHP (Laravel)** – Rotas, controllers, Eloquent, validação, migrations/seeders, auth (Sanctum/Passport); CSRF, policies/gates.  
-**b) Java (Spring Boot)** – REST, JPA, Bean Validation, profiles; **Spring Security** (JWT/OAuth2), CORS, roles, actuator protegido.  
-**c) Python (Django/FastAPI)** – Django: ORM, DRF, SecurityMiddleware; FastAPI: Pydantic, dependências, OAuth2 + JWT, CORS.
-
----
-
 <a id="objetivos-de-aprendizagem"></a>
 ## 🎯 Objetivos de aprendizagem
 - Raciocínio lógico e **algoritmos** com **Portugol** (pseudocódigo).
@@ -83,6 +61,28 @@ Programa completo para levar alunos do **zero** a **programador(a) júnior sóli
     /03-api-segura/
   README.md  ← este arquivo
 ```
+
+---
+
+<a id="pilares-e-trilhas-de-estudo"></a>
+## 🧱 Pilares e trilhas de estudo
+
+<a id="1-algoritmos-com-portugol"></a>
+### 1) Algoritmos com **Portugol**
+- Variáveis, E/S, condicionais, loops, vetores/matrizes, funções e recursão.
+- Complexidade (noções), decomposição, testes de mesa.  
+**Projeto:** 20–30 exercícios + mini‑sistema de terminal.
+
+<a id="2-banco-de-dados-sql"></a>
+### 2) Banco de Dados **SQL**
+- Modelagem (DER), chaves, normalização; DDL/DML; **JOINs**, `GROUP BY`, `HAVING`, índices; transações/isolamento.  
+**Projeto:** esquema para app (usuários/produtos/pedidos), seeds e 10 consultas.
+
+<a id="3-linguagens-frameworks"></a>
+### 3) Linguagens & Frameworks
+**a) PHP (Laravel)** – Rotas, controllers, Eloquent, validação, migrations/seeders, auth (Sanctum/Passport); CSRF, policies/gates.  
+**b) Java (Spring Boot)** – REST, JPA, Bean Validation, profiles; **Spring Security** (JWT/OAuth2), CORS, roles, actuator protegido.  
+**c) Python (Django/FastAPI)** – Django: ORM, DRF, SecurityMiddleware; FastAPI: Pydantic, dependências, OAuth2 + JWT, CORS.
 
 ---
 
