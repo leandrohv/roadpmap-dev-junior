@@ -264,4 +264,6 @@ Refino do projeto final, deploy simples (Docker Compose/serviço grátis), READM
 <a id="licenca"></a>
 ## 📄 Licença
 MIT License – use/adapte com créditos.  
-Última atualização: **29/08/2025**.
+Última atualização: **29/08/2025**.  
+Elaborado por: **Leandro Venâncio**  
+Me segue nas redes sociais: https://linktr.ee/leandro.venancio
