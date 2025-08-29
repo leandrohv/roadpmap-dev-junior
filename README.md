@@ -164,13 +164,8 @@ Refino do projeto final, deploy simples (Docker Compose/serviço grátis), READM
 
 > **Vídeos e Treinamentos — Portfólio & Entrevista**
 - **OWASP (canal):** https://www.youtube.com/c/OWASPGLOBAL/playlists  
-- **ZAP (canal):** https://www.youtube.com/@zaproxy/playlists  
+- **ZAP (canal):** https://www.youtube.com/playlist?list=PLH8n_ayg-60J9i3nsLybper-DR3zJw6Z5  
 - **PortSwigger (W. Security Academy):** https://www.youtube.com/playlist?list=PLoX0sUafNGbFcyjCwB0N7x_Zxw7T1-I9Y  
-
-
----
-
-
 
 ---
 
