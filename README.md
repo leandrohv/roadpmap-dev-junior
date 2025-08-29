@@ -125,7 +125,7 @@ DER, normalização, DDL/DML, **JOINs**, agregações, índices, transações; p
 
 > **Vídeos e Treinamentos — Web/API por linguagem**
 **PHP (Laravel)**  
-- **PHP Moderno – Curso em Vídeo (playlist):** https://youtu.be/TfsO0BGvGn0?si=MhUYpz6q-TjyuKWI  
+- **PHP Moderno – Curso em Vídeo (playlist):** https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_  
 - **Laravel 12 – Celke (playlist):** https://www.youtube.com/playlist?list=PLmY5AEiqDWwB29FbhTfTh86Zr0yjeFBwO  
 - **Segurança no PHP (playlist EN – visão geral):** https://www.youtube.com/playlist?list=PL2407F4EE0530B251  
 
