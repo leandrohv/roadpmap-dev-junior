@@ -94,8 +94,8 @@ Programa completo para levar alunos do **zero** a **programador(a) júnior sóli
 Lógica, tipos, estruturas de controle, funções, vetores/matrizes; 1 mini‑projeto em Portugol (menu/relatórios).
 
 > **Vídeos e Treinamentos - Portugol & Algoritmos**
-- Portugol Webstudio (online): https://portugol.dev/  
-- Portugol Studio (desktop): https://github.com/UNIVALI-LITE/Portugol-Studio  
+- **Portugol Webstudio (online):** https://portugol.dev/  
+- **Portugol Studio (desktop):** https://github.com/UNIVALI-LITE/Portugol-Studio  
 - **Algoritmos – Curso em Vídeo (playlist):** https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n  
 - **Algoritmos I – UNIVESP (playlist):** https://www.youtube.com/playlist?list=PLxI8Can9yAHcUdIGv9aaZqkt-z0fepFa8  
 
