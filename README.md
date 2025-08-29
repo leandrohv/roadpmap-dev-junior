@@ -7,29 +7,49 @@ Programa completo para levar alunos do **zero** a **programador(a) júnior sóli
 ---
 
 ## 🧭 Sumário
-- [🎯 Objetivos de aprendizagem](#-objetivos-de-aprendizagem)
-- [🧰 Pré-requisitos e ambiente](#-pre-requisitos-e-ambiente)
-  - [Convenções do repositório](#convencoes-do-repositorio)
-- [🧱 Pilares e trilhas de estudo](#-pilares-e-trilhas-de-estudo)
+- [🧱 Pilares e trilhas de estudo](#pilares-e-trilhas-de-estudo)
   - [1) Algoritmos com **Portugol**](#1-algoritmos-com-portugol)
   - [2) Banco de Dados **SQL**](#2-banco-de-dados-sql)
   - [3) Linguagens & Frameworks](#3-linguagens-frameworks)
-- [🗓️ Cronograma por fases (26 semanas)](#-cronograma-por-fases-26-semanas)
-- [🛡️ Segurança por padrão](#-seguranca-por-padrao)
+- [🎯 Objetivos de aprendizagem](#objetivos-de-aprendizagem)
+- [🧰 Pré-requisitos e ambiente](#pre-requisitos-e-ambiente)
+  - [Convenções do repositório](#convencoes-do-repositorio)
+- [🗓️ Cronograma por fases (26 semanas)](#cronograma-por-fases-26-semanas)
+- [🛡️ Segurança por padrão (DevSecOps para júnior)](#seguranca-por-padrao)
   - [Referenciais essenciais](#referenciais-essenciais)
   - [Práticas mínimas](#praticas-minimas)
   - [Tooling por projeto](#tooling-por-projeto)
-- [✅ Checklists de segurança](#-checklists-de-seguranca)
+- [✅ Checklists de segurança](#checklists-de-seguranca)
   - [Aplicação](#aplicacao)
-  - [Pipeline/Repo](#pipelinerepo)
-- [📺 Canais e playlists recomendados (PT-BR + EN)](#-canais-e-playlists-recomendados-pt-br-en)
-- [🧪 Rubrica de proficiência (Selo Júnior)](#-rubrica-de-proficiencia-selo-junior)
-- [📦 Entregáveis por fase](#-entregaveis-por-fase)
-- [📄 Licença](#-licenca)
+  - [Pipeline/Repo](#pipeline-repo)
+- [📺 Canais e playlists recomendados (PT-BR + EN)](#canais-e-playlists-recomendados-pt-br-en)
+- [🧪 Rubrica de proficiência (Selo Júnior)](#rubrica-de-proficiencia-selo-junior)
+- [📦 Entregáveis por fase](#entregaveis-por-fase)
+- [📄 Licença](#licenca)
 
+<a id="pilares-e-trilhas-de-estudo"></a>
+## 🧱 Pilares e trilhas de estudo
+
+<a id="1-algoritmos-com-portugol"></a>
+### 1) Algoritmos com **Portugol**
+- Variáveis, E/S, condicionais, loops, vetores/matrizes, funções e recursão.
+- Complexidade (noções), decomposição, testes de mesa.  
+**Projeto:** 20–30 exercícios + mini‑sistema de terminal.
+
+<a id="2-banco-de-dados-sql"></a>
+### 2) Banco de Dados **SQL**
+- Modelagem (DER), chaves, normalização; DDL/DML; **JOINs**, `GROUP BY`, `HAVING`, índices; transações/isolamento.  
+**Projeto:** esquema para app (usuários/produtos/pedidos), seeds e 10 consultas.
+
+<a id="3-linguagens-frameworks"></a>
+### 3) Linguagens & Frameworks
+**a) PHP (Laravel)** – Rotas, controllers, Eloquent, validação, migrations/seeders, auth (Sanctum/Passport); CSRF, policies/gates.  
+**b) Java (Spring Boot)** – REST, JPA, Bean Validation, profiles; **Spring Security** (JWT/OAuth2), CORS, roles, actuator protegido.  
+**c) Python (Django/FastAPI)** – Django: ORM, DRF, SecurityMiddleware; FastAPI: Pydantic, dependências, OAuth2 + JWT, CORS.
 
 ---
 
+<a id="objetivos-de-aprendizagem"></a>
 ## 🎯 Objetivos de aprendizagem
 - Raciocínio lógico e **algoritmos** com **Portugol** (pseudocódigo).
 - **Banco de dados SQL** (modelagem, DDL/DML, JOINS, transações).
@@ -43,12 +63,14 @@ Programa completo para levar alunos do **zero** a **programador(a) júnior sóli
 
 ---
 
+<a id="pre-requisitos-e-ambiente"></a>
 ## 🧰 Pré-requisitos e ambiente
 - **VS Code** + extensões da linguagem escolhida
 - **Git** + conta no **GitHub** (chave SSH)
 - **Docker** (opcional, recomendado para DBs/serviços)
 - **MySQL/PostgreSQL**, **DBeaver** (GUI) e **Postman/Insomnia** (APIs)
 
+<a id="convencoes-do-repositorio"></a>
 ### Convenções do repositório
 ```text
 /roadmap
@@ -64,24 +86,7 @@ Programa completo para levar alunos do **zero** a **programador(a) júnior sóli
 
 ---
 
-## 🧱 Pilares e trilhas de estudo
-
-### 1) Algoritmos com **Portugol**
-- Variáveis, E/S, condicionais, loops, vetores/matrizes, funções e recursão.
-- Complexidade (noções), decomposição, testes de mesa.  
-**Projeto:** 20–30 exercícios + mini‑sistema de terminal.
-
-### 2) Banco de Dados **SQL**
-- Modelagem (DER), chaves, normalização; DDL/DML; **JOINs**, `GROUP BY`, `HAVING`, índices; transações/isolamento.  
-**Projeto:** esquema para app (usuários/produtos/pedidos), seeds e 10 consultas.
-
-### 3) Linguagens & Frameworks
-**a) PHP (Laravel)** – Rotas, controllers, Eloquent, validação, migrations/seeders, auth (Sanctum/Passport); CSRF, policies/gates.  
-**b) Java (Spring Boot)** – REST, JPA, Bean Validation, profiles; **Spring Security** (JWT/OAuth2), CORS, roles, actuator protegido.  
-**c) Python (Django/FastAPI)** – Django: ORM, DRF, SecurityMiddleware; FastAPI: Pydantic, dependências, OAuth2 + JWT, CORS.
-
----
-
+<a id="cronograma-por-fases-26-semanas"></a>
 ## 🗓️ Cronograma por fases (26 semanas)
 > **Cadência sugerida:** 10–12h/semana. Ajuste conforme sua realidade.
 
@@ -165,8 +170,14 @@ Refino do projeto final, deploy simples (Docker Compose/serviço grátis), READM
 
 ---
 
-## 🛡️ Segurança por padrão 
 
+
+---
+
+<a id="seguranca-por-padrao"></a>
+## 🛡️ Segurança por padrão
+
+<a id="referenciais-essenciais"></a>
 ### Referenciais essenciais
 - **OWASP Top 10 (Web)**: https://owasp.org/www-project-top-ten/  
 - **OWASP API Security Top 10 (2023)**: https://owasp.org/API-Security/  
@@ -175,6 +186,7 @@ Refino do projeto final, deploy simples (Docker Compose/serviço grátis), READM
 - **SLSA (Supply chain)**: https://slsa.dev/  
 - **LGPD (Brasil)**: https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd
 
+<a id="praticas-minimas"></a>
 ### Práticas mínimas
 - Input validation; **prepared statements/ORM**; senha com **bcrypt/argon2**; **RBAC**; logs sem PII sensível; **headers** (HSTS/CSP/NoSniff); **rate limit**; **CORS** estrito.
 - **Laravel**: `@csrf`, `FormRequest`/validação, `Gate/Policy`, Sanctum/Passport, `APP_KEY` secreto (em `.env`).  
@@ -182,6 +194,7 @@ Refino do projeto final, deploy simples (Docker Compose/serviço grátis), READM
 - **Django**: `SecurityMiddleware`, `SECURE_*`, `CSRF_COOKIE_SECURE`, `SESSION_COOKIE_SECURE`, `PASSWORD_HASHERS`.  
 - **FastAPI**: OAuth2 Password + JWT, `passlib[bcrypt]`, `Depends` p/ autorização, middlewares (CORS/rate limit).
 
+<a id="tooling-por-projeto"></a>
 ### Tooling por projeto
 - **Secret scanning**: **Gitleaks** – https://github.com/gitleaks/gitleaks  
 - **SAST**: **Semgrep** – https://semgrep.dev/ • **Bandit** (Python) – https://bandit.readthedocs.io/  
@@ -192,8 +205,10 @@ Refino do projeto final, deploy simples (Docker Compose/serviço grátis), READM
 
 ---
 
+<a id="checklists-de-seguranca"></a>
 ## ✅ Checklists de segurança
 
+<a id="aplicacao"></a>
 ### Aplicação
 - [ ] Senhas com bcrypt/argon2; tokens com expiração/refresh.  
 - [ ] SQL apenas **parametrizado** (ORM/Query Builder).  
@@ -203,6 +218,7 @@ Refino do projeto final, deploy simples (Docker Compose/serviço grátis), READM
 - [ ] **Rate limit** e limites de payload.  
 - [ ] **Backups** e restauração testada (DB).
 
+<a id="pipeline-repo"></a>
 ### Pipeline/Repo
 - [ ] `.env` e segredos **fora do Git**; secrets em vault/Actions.  
 - [ ] **Gitleaks** em _pre‑commit_ + CI; rotação de segredos se vazarem.  
@@ -213,6 +229,7 @@ Refino do projeto final, deploy simples (Docker Compose/serviço grátis), READM
 
 ---
 
+<a id="canais-e-playlists-recomendados-pt-br-en"></a>
 ## 📺 Canais e playlists recomendados (PT-BR + EN)
 - **OWASP (oficial):** https://www.youtube.com/c/OWASPGLOBAL/playlists  
 - **ZAP (oficial):** https://www.youtube.com/@zaproxy/playlists  
@@ -224,6 +241,7 @@ Refino do projeto final, deploy simples (Docker Compose/serviço grátis), READM
 
 ---
 
+<a id="rubrica-de-proficiencia-selo-junior"></a>
 ## 🧪 Rubrica de proficiência (Selo Júnior)
 **Fundamentos** – Portugol (20+ exercícios) e SQL intermediário.  
 **Web/API** – CRUD REST + validação + testes + documentação; autenticação (JWT/OAuth2) com roles.  
@@ -232,18 +250,18 @@ Refino do projeto final, deploy simples (Docker Compose/serviço grátis), READM
 
 ---
 
+<a id="entregaveis-por-fase"></a>
 ## 📦 Entregáveis por fase
 1. **F1:** exercícios Portugol + mini‑projeto.  
 2. **F2:** repositório Git organizado + workflow CI mínimo.  
 3. **F3:** schema SQL, seeds e 10 queries úteis.  
 4. **F4:** API REST (linguagem escolhida) com autenticação e testes.  
 5. **F5:** Pipeline com Gitleaks, Semgrep/Bandit, ZAP Baseline, SBOM, CodeQL.  
-6. **F6:** Projeto final, demo (2–5 min), README e roadmap.
+6. **F6:** Projeto final polido, demo (2–5 min), README e roadmap.
 
 ---
 
+<a id="licenca"></a>
 ## 📄 Licença
 MIT License – use/adapte com créditos.  
-Última atualização: **29/08/2025**.  
-Elaborado por: **Leandro Venâncio**  
-Me segue nas redes sociais: https://linktr.ee/leandro.venancio
+Última atualização: **29/08/2025**.
