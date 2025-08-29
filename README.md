@@ -148,10 +148,10 @@ OWASP Top 10 / API Top 10, headers, rate limit, RBAC, migrações; SAST/DAST, SB
 
 
 > **Vídeos e Treinamentos — Segurança aplicada + CI**
-- **OWASP Top 10 (playlist oficial):** https://www.youtube.com/playlist?list=PLpr-xdpM8wG-4DkY6H6PEiG0wFRrC6Qqy  
+- **OWASP Top 10 (playlist oficial):** https://www.youtube.com/@OWASPGLOBAL/search?query=owasp%20top%2010  
 - **OWASP API Security Top 10 (vídeos):** https://www.youtube.com/results?search_query=owasp+api+security+top+10  
 - **OWASP ZAP (playlist oficial):** https://www.youtube.com/playlist?list=PLEBitBW-Hlsv8cEIUntAO8st2UGhmrjUB  
-- **Semgrep (playlist):** https://www.youtube.com/playlist?list=PL95Eg4eyVuduihrU8l9yIN0CBJLT-C_R8  
+- **Semgrep (playlist):** https://www.youtube.com/@semgrep/playlists  
 - **Bandit (vídeo):** https://www.youtube.com/watch?v=dGkmAolcpxE  
 - **CodeQL (vídeo introdutório):** https://www.youtube.com/watch?v=y_-pIbsr7jc  
 - **Trivy/SBOM CycloneDX (vídeo):** https://www.youtube.com/watch?v=YlDVnaKuffo  
