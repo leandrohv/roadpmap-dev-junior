@@ -15,7 +15,7 @@ Programa completo para levar alunos do **zero** a **programador(a) júnior sóli
 - [🧰 Pré-requisitos e ambiente](#pre-requisitos-e-ambiente)
   - [Convenções do repositório](#convencoes-do-repositorio)
 - [🗓️ Cronograma por fases (26 semanas)](#cronograma-por-fases-26-semanas)
-- [🛡️ Segurança por padrão (DevSecOps para júnior)](#seguranca-por-padrao)
+- [🛡️ Segurança por padrão](#seguranca-por-padrao)
   - [Referenciais essenciais](#referenciais-essenciais)
   - [Práticas mínimas](#praticas-minimas)
   - [Tooling por projeto](#tooling-por-projeto)
